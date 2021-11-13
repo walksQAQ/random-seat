@@ -41,8 +41,14 @@
       <height>71</height>
      </rect>
     </property>
+    <property name="font">
+     <font>
+      <family>Comic Sans MS</family>
+      <pointsize>30</pointsize>
+     </font>
+    </property>
     <property name="text">
-     <string/>
+     <string>01</string>
     </property>
    </widget>
    <widget class="QPushButton" name="pushButton_02">
@@ -54,8 +60,14 @@
       <height>71</height>
      </rect>
     </property>
+    <property name="font">
+     <font>
+      <family>Comic Sans MS</family>
+      <pointsize>30</pointsize>
+     </font>
+    </property>
     <property name="text">
-     <string/>
+     <string>02</string>
     </property>
    </widget>
    <widget class="QPushButton" name="pushButton_03">
@@ -67,8 +79,14 @@
       <height>71</height>
      </rect>
     </property>
+    <property name="font">
+     <font>
+      <family>Comic Sans MS</family>
+      <pointsize>30</pointsize>
+     </font>
+    </property>
     <property name="text">
-     <string/>
+     <string>03</string>
     </property>
    </widget>
    <widget class="QPushButton" name="pushButton_04">
@@ -80,8 +98,14 @@
       <height>71</height>
      </rect>
     </property>
+    <property name="font">
+     <font>
+      <family>Comic Sans MS</family>
+      <pointsize>30</pointsize>
+     </font>
+    </property>
     <property name="text">
-     <string/>
+     <string>04</string>
     </property>
    </widget>
    <widget class="QPushButton" name="pushButton_05">
@@ -93,8 +117,14 @@
       <height>71</height>
      </rect>
     </property>
+    <property name="font">
+     <font>
+      <family>Comic Sans MS</family>
+      <pointsize>30</pointsize>
+     </font>
+    </property>
     <property name="text">
-     <string/>
+     <string>05</string>
     </property>
    </widget>
    <widget class="QPushButton" name="pushButton_06">
@@ -106,8 +136,14 @@
       <height>71</height>
      </rect>
     </property>
+    <property name="font">
+     <font>
+      <family>Comic Sans MS</family>
+      <pointsize>30</pointsize>
+     </font>
+    </property>
     <property name="text">
-     <string/>
+     <string>06</string>
     </property>
    </widget>
    <widget class="QPushButton" name="pushButton_07">
@@ -119,8 +155,14 @@
       <height>71</height>
      </rect>
     </property>
+    <property name="font">
+     <font>
+      <family>Comic Sans MS</family>
+      <pointsize>30</pointsize>
+     </font>
+    </property>
     <property name="text">
-     <string/>
+     <string>07</string>
     </property>
    </widget>
    <widget class="QPushButton" name="pushButton_08">
@@ -132,8 +174,14 @@
       <height>71</height>
      </rect>
     </property>
+    <property name="font">
+     <font>
+      <family>Comic Sans MS</family>
+      <pointsize>30</pointsize>
+     </font>
+    </property>
     <property name="text">
-     <string/>
+     <string>08</string>
     </property>
    </widget>
    <widget class="QPushButton" name="pushButton_09">
@@ -145,8 +193,14 @@
       <height>71</height>
      </rect>
     </property>
+    <property name="font">
+     <font>
+      <family>Comic Sans MS</family>
+      <pointsize>30</pointsize>
+     </font>
+    </property>
     <property name="text">
-     <string/>
+     <string>09</string>
     </property>
    </widget>
    <widget class="QPushButton" name="pushButton_10">
@@ -158,8 +212,14 @@
       <height>71</height>
      </rect>
     </property>
+    <property name="font">
+     <font>
+      <family>Comic Sans MS</family>
+      <pointsize>30</pointsize>
+     </font>
+    </property>
     <property name="text">
-     <string/>
+     <string>10</string>
     </property>
    </widget>
    <widget class="QPushButton" name="pushButton_11">
@@ -171,8 +231,14 @@
       <height>71</height>
      </rect>
     </property>
+    <property name="font">
+     <font>
+      <family>Comic Sans MS</family>
+      <pointsize>30</pointsize>
+     </font>
+    </property>
     <property name="text">
-     <string/>
+     <string>11</string>
     </property>
    </widget>
    <widget class="QPushButton" name="pushButton_12">
@@ -184,8 +250,14 @@
       <height>71</height>
      </rect>
     </property>
+    <property name="font">
+     <font>
+      <family>Comic Sans MS</family>
+      <pointsize>30</pointsize>
+     </font>
+    </property>
     <property name="text">
-     <string/>
+     <string>12</string>
     </property>
    </widget>
    <widget class="QPushButton" name="pushButton_13">
@@ -197,8 +269,14 @@
       <height>71</height>
      </rect>
     </property>
+    <property name="font">
+     <font>
+      <family>Comic Sans MS</family>
+      <pointsize>30</pointsize>
+     </font>
+    </property>
     <property name="text">
-     <string/>
+     <string>13</string>
     </property>
    </widget>
    <widget class="QPushButton" name="pushButton_14">
@@ -210,8 +288,14 @@
       <height>71</height>
      </rect>
     </property>
+    <property name="font">
+     <font>
+      <family>Comic Sans MS</family>
+      <pointsize>30</pointsize>
+     </font>
+    </property>
     <property name="text">
-     <string/>
+     <string>14</string>
     </property>
    </widget>
    <widget class="QPushButton" name="pushButton_15">
@@ -223,8 +307,14 @@
       <height>71</height>
      </rect>
     </property>
+    <property name="font">
+     <font>
+      <family>Comic Sans MS</family>
+      <pointsize>30</pointsize>
+     </font>
+    </property>
     <property name="text">
-     <string/>
+     <string>15</string>
     </property>
    </widget>
    <widget class="QPushButton" name="pushButton_16">
@@ -236,8 +326,14 @@
       <height>71</height>
      </rect>
     </property>
+    <property name="font">
+     <font>
+      <family>Comic Sans MS</family>
+      <pointsize>30</pointsize>
+     </font>
+    </property>
     <property name="text">
-     <string/>
+     <string>16</string>
     </property>
    </widget>
    <widget class="QPushButton" name="pushButton_17">
@@ -249,8 +345,14 @@
       <height>71</height>
      </rect>
     </property>
+    <property name="font">
+     <font>
+      <family>Comic Sans MS</family>
+      <pointsize>30</pointsize>
+     </font>
+    </property>
     <property name="text">
-     <string/>
+     <string>17</string>
     </property>
    </widget>
    <widget class="QPushButton" name="pushButton_18">
@@ -262,8 +364,14 @@
       <height>71</height>
      </rect>
     </property>
+    <property name="font">
+     <font>
+      <family>Comic Sans MS</family>
+      <pointsize>30</pointsize>
+     </font>
+    </property>
     <property name="text">
-     <string/>
+     <string>18</string>
     </property>
    </widget>
    <widget class="QPushButton" name="pushButton_19">
@@ -275,8 +383,14 @@
       <height>71</height>
      </rect>
     </property>
+    <property name="font">
+     <font>
+      <family>Comic Sans MS</family>
+      <pointsize>30</pointsize>
+     </font>
+    </property>
     <property name="text">
-     <string/>
+     <string>19</string>
     </property>
    </widget>
    <widget class="QPushButton" name="pushButton_20">
@@ -288,8 +402,14 @@
       <height>71</height>
      </rect>
     </property>
+    <property name="font">
+     <font>
+      <family>Comic Sans MS</family>
+      <pointsize>30</pointsize>
+     </font>
+    </property>
     <property name="text">
-     <string/>
+     <string>20</string>
     </property>
    </widget>
    <widget class="QPushButton" name="pushButton_21">
@@ -301,8 +421,14 @@
       <height>71</height>
      </rect>
     </property>
+    <property name="font">
+     <font>
+      <family>Comic Sans MS</family>
+      <pointsize>30</pointsize>
+     </font>
+    </property>
     <property name="text">
-     <string/>
+     <string>21</string>
     </property>
    </widget>
    <widget class="QPushButton" name="pushButton_22">
@@ -314,8 +440,14 @@
       <height>71</height>
      </rect>
     </property>
+    <property name="font">
+     <font>
+      <family>Comic Sans MS</family>
+      <pointsize>30</pointsize>
+     </font>
+    </property>
     <property name="text">
-     <string/>
+     <string>22</string>
     </property>
    </widget>
    <widget class="QPushButton" name="pushButton_23">
@@ -327,8 +459,14 @@
       <height>71</height>
      </rect>
     </property>
+    <property name="font">
+     <font>
+      <family>Comic Sans MS</family>
+      <pointsize>30</pointsize>
+     </font>
+    </property>
     <property name="text">
-     <string/>
+     <string>23</string>
     </property>
    </widget>
    <widget class="QPushButton" name="pushButton_24">
@@ -340,8 +478,14 @@
       <height>71</height>
      </rect>
     </property>
+    <property name="font">
+     <font>
+      <family>Comic Sans MS</family>
+      <pointsize>30</pointsize>
+     </font>
+    </property>
     <property name="text">
-     <string/>
+     <string>24</string>
     </property>
    </widget>
    <widget class="QPushButton" name="pushButton_25">
@@ -353,8 +497,14 @@
       <height>71</height>
      </rect>
     </property>
+    <property name="font">
+     <font>
+      <family>Comic Sans MS</family>
+      <pointsize>30</pointsize>
+     </font>
+    </property>
     <property name="text">
-     <string/>
+     <string>25</string>
     </property>
    </widget>
    <widget class="QPushButton" name="pushButton_26">
@@ -366,8 +516,14 @@
       <height>71</height>
      </rect>
     </property>
+    <property name="font">
+     <font>
+      <family>Comic Sans MS</family>
+      <pointsize>30</pointsize>
+     </font>
+    </property>
     <property name="text">
-     <string/>
+     <string>26</string>
     </property>
    </widget>
    <widget class="QPushButton" name="pushButton_27">
@@ -379,8 +535,14 @@
       <height>71</height>
      </rect>
     </property>
+    <property name="font">
+     <font>
+      <family>Comic Sans MS</family>
+      <pointsize>30</pointsize>
+     </font>
+    </property>
     <property name="text">
-     <string/>
+     <string>27</string>
     </property>
    </widget>
    <widget class="QPushButton" name="pushButton_28">
@@ -392,8 +554,14 @@
       <height>71</height>
      </rect>
     </property>
+    <property name="font">
+     <font>
+      <family>Comic Sans MS</family>
+      <pointsize>30</pointsize>
+     </font>
+    </property>
     <property name="text">
-     <string/>
+     <string>28</string>
     </property>
    </widget>
    <widget class="QPushButton" name="pushButton_29">
@@ -405,8 +573,14 @@
       <height>71</height>
      </rect>
     </property>
+    <property name="font">
+     <font>
+      <family>Comic Sans MS</family>
+      <pointsize>30</pointsize>
+     </font>
+    </property>
     <property name="text">
-     <string/>
+     <string>29</string>
     </property>
    </widget>
    <widget class="QPushButton" name="pushButton_30">
@@ -418,8 +592,14 @@
       <height>71</height>
      </rect>
     </property>
+    <property name="font">
+     <font>
+      <family>Comic Sans MS</family>
+      <pointsize>30</pointsize>
+     </font>
+    </property>
     <property name="text">
-     <string/>
+     <string>30</string>
     </property>
    </widget>
    <widget class="QPushButton" name="pushButton_31">
@@ -431,8 +611,14 @@
       <height>71</height>
      </rect>
     </property>
+    <property name="font">
+     <font>
+      <family>Comic Sans MS</family>
+      <pointsize>30</pointsize>
+     </font>
+    </property>
     <property name="text">
-     <string/>
+     <string>31</string>
     </property>
    </widget>
    <widget class="QPushButton" name="pushButton_32">
@@ -444,8 +630,14 @@
       <height>71</height>
      </rect>
     </property>
+    <property name="font">
+     <font>
+      <family>Comic Sans MS</family>
+      <pointsize>30</pointsize>
+     </font>
+    </property>
     <property name="text">
-     <string/>
+     <string>32</string>
     </property>
    </widget>
    <widget class="QPushButton" name="pushButton_33">
@@ -457,8 +649,14 @@
       <height>71</height>
      </rect>
     </property>
+    <property name="font">
+     <font>
+      <family>Comic Sans MS</family>
+      <pointsize>30</pointsize>
+     </font>
+    </property>
     <property name="text">
-     <string/>
+     <string>33</string>
     </property>
    </widget>
    <widget class="QPushButton" name="pushButton_34">
@@ -470,8 +668,14 @@
       <height>71</height>
      </rect>
     </property>
+    <property name="font">
+     <font>
+      <family>Comic Sans MS</family>
+      <pointsize>30</pointsize>
+     </font>
+    </property>
     <property name="text">
-     <string/>
+     <string>34</string>
     </property>
    </widget>
    <widget class="QPushButton" name="pushButton_35">
@@ -483,8 +687,14 @@
       <height>71</height>
      </rect>
     </property>
+    <property name="font">
+     <font>
+      <family>Comic Sans MS</family>
+      <pointsize>30</pointsize>
+     </font>
+    </property>
     <property name="text">
-     <string/>
+     <string>35</string>
     </property>
    </widget>
    <widget class="QPushButton" name="pushButton_36">
@@ -496,8 +706,14 @@
       <height>71</height>
      </rect>
     </property>
+    <property name="font">
+     <font>
+      <family>Comic Sans MS</family>
+      <pointsize>30</pointsize>
+     </font>
+    </property>
     <property name="text">
-     <string/>
+     <string>36</string>
     </property>
    </widget>
    <widget class="QPushButton" name="pushButton_37">
@@ -509,8 +725,14 @@
       <height>71</height>
      </rect>
     </property>
+    <property name="font">
+     <font>
+      <family>Comic Sans MS</family>
+      <pointsize>30</pointsize>
+     </font>
+    </property>
     <property name="text">
-     <string/>
+     <string>37</string>
     </property>
    </widget>
    <widget class="QPushButton" name="pushButton_38">
@@ -522,8 +744,14 @@
       <height>71</height>
      </rect>
     </property>
+    <property name="font">
+     <font>
+      <family>Comic Sans MS</family>
+      <pointsize>30</pointsize>
+     </font>
+    </property>
     <property name="text">
-     <string/>
+     <string>38</string>
     </property>
    </widget>
    <widget class="QPushButton" name="pushButton_39">
@@ -535,8 +763,14 @@
       <height>71</height>
      </rect>
     </property>
+    <property name="font">
+     <font>
+      <family>Comic Sans MS</family>
+      <pointsize>30</pointsize>
+     </font>
+    </property>
     <property name="text">
-     <string/>
+     <string>39</string>
     </property>
    </widget>
    <widget class="QPushButton" name="pushButton_40">
@@ -548,8 +782,14 @@
       <height>71</height>
      </rect>
     </property>
+    <property name="font">
+     <font>
+      <family>Comic Sans MS</family>
+      <pointsize>30</pointsize>
+     </font>
+    </property>
     <property name="text">
-     <string/>
+     <string>40</string>
     </property>
    </widget>
    <widget class="QPushButton" name="pushButton_41">
@@ -561,8 +801,14 @@
       <height>71</height>
      </rect>
     </property>
+    <property name="font">
+     <font>
+      <family>Comic Sans MS</family>
+      <pointsize>30</pointsize>
+     </font>
+    </property>
     <property name="text">
-     <string/>
+     <string>41</string>
     </property>
    </widget>
    <widget class="QPushButton" name="pushButton_42">
@@ -574,8 +820,14 @@
       <height>71</height>
      </rect>
     </property>
+    <property name="font">
+     <font>
+      <family>Comic Sans MS</family>
+      <pointsize>30</pointsize>
+     </font>
+    </property>
     <property name="text">
-     <string/>
+     <string>42</string>
     </property>
    </widget>
    <widget class="QPushButton" name="pushButton_00">
@@ -587,12 +839,83 @@
       <height>71</height>
      </rect>
     </property>
+    <property name="font">
+     <font>
+      <family>Comic Sans MS</family>
+      <pointsize>30</pointsize>
+     </font>
+    </property>
     <property name="text">
-     <string/>
+     <string>00</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="bton">
+    <property name="geometry">
+     <rect>
+      <x>730</x>
+      <y>210</y>
+      <width>301</width>
+      <height>371</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>思源黑体</family>
+      <pointsize>64</pointsize>
+      <weight>50</weight>
+      <bold>false</bold>
+     </font>
+    </property>
+    <property name="text">
+     <string>生成</string>
+    </property>
+    <property name="iconSize">
+     <size>
+      <width>64</width>
+      <height>64</height>
+     </size>
+    </property>
+   </widget>
+   <widget class="QLCDNumber" name="lcdNumber">
+    <property name="geometry">
+     <rect>
+      <x>160</x>
+      <y>90</y>
+      <width>211</width>
+      <height>81</height>
+     </rect>
+    </property>
+    <property name="frameShape">
+     <enum>QFrame::NoFrame</enum>
+    </property>
+    <property name="frameShadow">
+     <enum>QFrame::Raised</enum>
+    </property>
+    <property name="intValue" stdset="0">
+     <number>0</number>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label">
+    <property name="geometry">
+     <rect>
+      <x>40</x>
+      <y>30</y>
+      <width>281</width>
+      <height>71</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>微软雅黑</family>
+      <pointsize>35</pointsize>
+     </font>
+    </property>
+    <property name="text">
+     <string>座位表</string>
     </property>
    </widget>
   </widget>
-  <widget class="QStatusBar" name="statusbar"/>
+  <widget class="QStatusBar" name="bar"/>
  </widget>
  <resources/>
  <connections/>
