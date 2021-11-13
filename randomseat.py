@@ -3,7 +3,7 @@ import random
 l = "false"
 while l == "false":
     a = random.randint(1,6)
-    if a != 2:
+    if a != 5:
         b = random.randint(1,7)
     else:
         b = random.randint(1,8)
