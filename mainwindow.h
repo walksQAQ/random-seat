@@ -15,6 +15,11 @@ public:
     MainWindow(QWidget *parent = nullptr);
     ~MainWindow();
 
+private slots:
+    void on_bton_clicked();
+
+    void on_lcdNumber_overflow();
+
 private:
     Ui::MainWindow *ui;
 };

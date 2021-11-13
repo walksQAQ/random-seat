@@ -13,7 +13,7 @@
 int main(int argc, char *argv[])
 {
     QApplication a(argc, argv);
-
+/*
     int seat = 0;
     auto seat00isused = false;
     auto seat01isused = false;
@@ -72,7 +72,7 @@ int main(int argc, char *argv[])
 
     //goto regen;
 
-
+*/
 
     MainWindow w;
 
