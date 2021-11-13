@@ -15,3 +15,7 @@ while l == "false":
     if f != "yes":
         fo.write("yes")
         l = "true"
+        tt = open("back.txt","w+", encoding='utf-8')
+        g = "第",a,"组,","第",b,"个"
+        backvalue = str(g)
+        tt.write(backvalue)
